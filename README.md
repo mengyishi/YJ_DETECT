@@ -7,4 +7,7 @@ data和models文件夹中的内容放到yolo对应文件夹中
 
 
 https://github.com/ultralytics/yolov5   
-上面是yolov5的官方代码，这些就别在我这下了QAQ
+上面是yolov5的官方代码，这些就别在我这下了QWQ
+
+
+要是觉得好用记得打个星QAQ
