@@ -1,0 +1,1 @@
+这里的my.yaml放到yolov5的data文件夹中
